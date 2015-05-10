@@ -1,0 +1,1 @@
+A small, currently unfinished project regarding a database to be built for my landing page "Started Android"
